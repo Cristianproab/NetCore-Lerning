@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\bin\Debug\net6.0\camiloHelloWorld.exe
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\bin\Debug\net6.0\camiloHelloWorld.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\bin\Debug\net6.0\camiloHelloWorld.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\bin\Debug\net6.0\camiloHelloWorld.dll
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\bin\Debug\net6.0\camiloHelloWorld.pdb
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\camiloHelloWorld.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\camiloHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\camiloHelloWorld.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\camiloHelloWorld.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\camiloHelloWorld.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\camiloHelloWorld.dll
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\refint\camiloHelloWorld.dll
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\camiloHelloWorld.pdb
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\camiloHelloWorld.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\camiloHelloWorld\obj\Debug\net6.0\ref\camiloHelloWorld.dll
