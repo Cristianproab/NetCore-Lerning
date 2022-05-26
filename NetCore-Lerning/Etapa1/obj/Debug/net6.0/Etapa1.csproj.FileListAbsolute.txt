@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\bin\Debug\net6.0\Etapa1.exe
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\bin\Debug\net6.0\Etapa1.deps.json
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\bin\Debug\net6.0\Etapa1.runtimeconfig.json
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\bin\Debug\net6.0\Etapa1.dll
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\bin\Debug\net6.0\Etapa1.pdb
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\Etapa1.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\Etapa1.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\Etapa1.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\Etapa1.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\Etapa1.dll
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\refint\Etapa1.dll
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\Etapa1.pdb
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\Etapa1.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu-20.04\home\calvarado\NetCore\NetCore-Lerning\Etapa1\obj\Debug\net6.0\ref\Etapa1.dll
