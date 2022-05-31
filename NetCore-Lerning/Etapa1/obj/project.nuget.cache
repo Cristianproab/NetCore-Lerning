@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7XUyWOCpI843MxkOaKis8N8/7O+hDsPfZCdU6XqQwtvhIP8M28gymFuV3Q9r1+jw30jcAQEYlHJ4NNK5OyCljw==",
+  "dgSpecHash": "+2+F2z4/XBoR1S8mbVcyK/TKrW7XhSdln+ZxpU+2afumNJitt+XYspyQB5UVSEWTofY/H8vio6C0v89s0wbHFQ==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\calvarado\\NetCore\\NetCore-Lerning\\Etapa1\\Etapa1.csproj",
+  "projectFilePath": "/home/calvarado/NetCore/NetCore-Lerning/Etapa1/Etapa1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
